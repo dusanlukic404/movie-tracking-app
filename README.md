@@ -3,7 +3,7 @@
 
 This Flutter application utilizes Firebase for the backend to provide users with functionalities such as signing in, signing up, resetting passwords, and managing their watched movies. Users can perform CRUD operations on movies, including adding, updating, and deleting them. Additionally, the app supports sorting, searching, and filtering movies by genre.
 
-# Features
+## Features
 
 - User authentication (sign in, sign up, password reset)
 - Movie management (add, update, delete)
